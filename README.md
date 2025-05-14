@@ -8,4 +8,3 @@ i like bsd, nge, jjba, alien nine, & APPLEZ!
 
 **I HATE CODING!!!!!!!!!!!!!!!!**
 
-> Extra : FOLLOW ME ON TWITTER @xCrystiiAngel >_<
