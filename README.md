@@ -8,7 +8,7 @@ i like bsd, nge, jjba, alien nine, & APPLEZ!
 
 **I HATE CODING!!!!!!!!!!!!!!!!** <img src="https://xyz.crd.co/assets/images/gallery11/007c8a23.png?v=de6feabd">
 
-![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white) ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-239af3?logo=windows11&logoColor=white) [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](#) ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white) [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white) [![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](#) ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-239af3?logo=windows11&logoColor=white) [![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=GoogleChrome&logoColor=white)](#) ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white) [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 
 <details>
   <summary>click 4 cool misc . . .</summary>
