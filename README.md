@@ -2,7 +2,7 @@
 
 > i only exist here for my silly frontend deving o(*￣▽￣*)ブ
 
-i use any pronouns except it/its.
+i use they/them or any pronouns except it/its.
 
 i like bsd, nge, jjba, alien nine, & APPLEZ!
 
