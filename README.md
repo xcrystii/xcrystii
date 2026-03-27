@@ -8,6 +8,8 @@ i like bsd, nge, jjba, alien nine, & APPLEZ!
 
 **I HATE CODING!!!!!!!!!!!!!!!!** <img src="https://xyz.crd.co/assets/images/gallery11/007c8a23.png?v=de6feabd">
 
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26.svg?logo=html5&logoColor=white) ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-239af3?logo=windows11&logoColor=white) ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white) ![SCSS](https://img.shields.io/badge/SCSS-639?logo=css&logoColor=fff)
+
 <details>
   <summary>click 4 cool misc . . .</summary>
   <img src="https://cyber.dabamos.de/88x31/brow.gif"><img src="https://cyber.dabamos.de/88x31/49.gif"><img src="https://capstasher.neocities.org/88x31Buttons/61.gif">
