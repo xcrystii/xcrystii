@@ -1,6 +1,6 @@
 ## <img src="https://watermelon.crd.co/assets/images/gallery01/450da4a9.gif?v=6332de85"> hello ! i'm xcrystii :3 
 
-> i only exist here for my silly frontend deving o(*￣▽￣*)ブ
+> i only exist here for my silly web deving o(*￣▽￣*)ブ
 
 i use they/them or any pronouns except it/its.
 
